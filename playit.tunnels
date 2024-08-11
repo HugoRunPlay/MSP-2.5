@@ -37,7 +37,7 @@
           "agent_id": "375c1821-29da-4b03-8d94-46ea37048022",
           "agent_name": "ARXIP ",
           "local_ip": "127.0.0.1",
-          "local_port": 25565
+          "local_port": 61663
         },
         "type": "agent"
       },
